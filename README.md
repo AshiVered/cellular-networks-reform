@@ -1,3 +1,6 @@
+![image](https://raw.githubusercontent.com/AshiVered/support-israel-banner/main/assets/support-israel-banner.jpg)
+
+
 # cellular-networks-reform
 Information about the Israeli reform in cellular networks
 # License
